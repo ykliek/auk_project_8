@@ -5,9 +5,9 @@ A series of Java projects demonstrating various programming techniques and best 
 ## Table of Contents
 
 - [File Structure](#file-structure)
-- [Part 1: Syntax](#part-1-demonstrate-recursion)
-- [Part 2: Improved Rock Recommender II](#part-2-improved-rock-recommender-ii)
-- [Part 3: Calculator](#part-3-calculator)
+- [Part 1: Demonstration of recursion](#part-1-demonstrate-recursion)
+- [Part 2: Recursion and arrays](#part-2-recursion-and-arrays)
+- [Part 3: Work with strings recursively](#part-3-work-with-strings-recursively)
 
 ## File Structure
 
